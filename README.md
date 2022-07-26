@@ -1,6 +1,6 @@
 # DIO - Exercícios do Curso Java 📝
 
 - **Linguagem:** Java
-- **IDE:** Intellij
+- **IDE:** IntelliJ
 
 Repositório com exercícios.

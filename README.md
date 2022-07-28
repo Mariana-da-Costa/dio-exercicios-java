@@ -1,4 +1,4 @@
-# DIO - Exercícios do Curso Java 📝
+## ✨DIO - Exercícios do Curso Java 📝
 
 - **Linguagem:** Java
 - **IDE:** IntelliJ
